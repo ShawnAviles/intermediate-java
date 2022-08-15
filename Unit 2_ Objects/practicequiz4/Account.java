@@ -1,3 +1,5 @@
+package practicequiz4;
+
 public class Account {
     private String accountName;
     private double interestRate;
