@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day6_LockerWarmup",
+            "request": "launch",
+            "mainClass": "Day6_LockerWarmup",
+            "projectName": "2. Intermediate_Java_acfb4204"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day5_CountingDistribution",
+            "request": "launch",
+            "mainClass": "Day5_CountingDistribution",
+            "projectName": "2. Intermediate_Java_acfb4204"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day4_Warmup",
+            "request": "launch",
+            "mainClass": "Day4_Warmup",
+            "projectName": "2. Intermediate_Java_acfb4204"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day3_Distinct",
+            "request": "launch",
+            "mainClass": "Day3_Distinct",
+            "projectName": "2. Intermediate_Java_acfb4204"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day2_CodePrompt",
+            "request": "launch",
+            "mainClass": "Day2_CodePrompt",
+            "projectName": "2. Intermediate_Java_acfb4204"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day2_RandomGen",
+            "request": "launch",
+            "mainClass": "Day2_RandomGen",
+            "projectName": "2. Intermediate_Java_acfb4204"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day1_Arrayintro",
+            "request": "launch",
+            "mainClass": "Day1_Arrayintro",
+            "projectName": "2. Intermediate_Java_acfb4204"
+        }
+    ]
+}
